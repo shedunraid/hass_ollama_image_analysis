@@ -14,7 +14,7 @@
   "iot_class": "local_polling",
   "integration_type": "service",
   "requirements": [
-    "ollama==0.5.11",
+    "ollama==0.4.7",
     "pybase64==1.4.0",
     "aiofiles"
   ],
